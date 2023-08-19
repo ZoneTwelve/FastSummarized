@@ -1,0 +1,10 @@
+{
+    "version": "0.0.0",
+    "manifest_version": 3,
+    "name": "Fast Summarized",
+    "description": "A new summerizer for websites.",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "React Chrome Extension"
+    }
+}
